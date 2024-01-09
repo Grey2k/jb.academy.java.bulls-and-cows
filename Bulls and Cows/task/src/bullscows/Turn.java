@@ -3,22 +3,48 @@ package bullscows;
 public record Turn(Integer input, Integer secret) {
 
     public Integer bulls() {
-        return 0;
+        int bulls = 0;
+        for (int i = 0; i < secret.toString().length(); i++) {
+            if (input.toString().charAt(i) == secret.toString().charAt(i)) {
+                bulls++;
+            }
+        }
+
+        return bulls;
     }
 
     public Integer cows() {
-        return 0;
+        int cows = 0;
+
+        for (int i = 0; i < secret.toString().length(); i++) {
+            if (input.toString().charAt(i) != secret.toString().charAt(i)) {
+                if (input.toString().contains(String.valueOf(secret.toString().charAt(i)))) {
+                    cows++;
+                }
+            }
+        }
+
+        return cows;
     }
 
     public boolean match() {
-        return input.toString().length() == bulls() && cows() == 0;
+        return bulls() == secret.toString().length();
     }
 
-    public Integer secret() {
-       if(match()) {
-           return secret;
-       }
+    public void print() {
+        System.out.print("Grade: ");
 
-       throw new RuntimeException("Answer didn't match secret yet!");
+        if ((bulls() + cows()) == 0) {
+            System.out.print("None.");
+        } else if (cows() == 0) {
+            System.out.print(bulls() + " bull(s).");
+        } else if (bulls() == 0) {
+            System.out.print(cows() + " cow(s).");
+        } else {
+            System.out.print(bulls() + " bull(s) and " + cows() + " cow(s).");
+        }
+
+        System.out.print(" The secret code is " + secret.toString() + ".");
+        System.out.println();
     }
 }

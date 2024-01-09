@@ -1,0 +1,27 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      import java.util.Scanner;
+      
+      public class Main {
+          public static void main(String[] args) {
+              Scanner scanner = new Scanner(System.in);
+      
+              int firstNum = scanner.nextInt();
+              double secondNum = scanner.nextDouble();
+              double result;
+      
+              // TODO: Put your code here
+      
+              System.out.println(result);
+          }
+      
+          // TODO: Define any additional methods here
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/41169#comment
+status: Unchecked
+record: -1
+submission_language: java17
