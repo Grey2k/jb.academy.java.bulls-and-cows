@@ -1,8 +1,11 @@
 package bullscows;
 
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-        Game game = new Game(9305);
+        System.out.println("Please, enter the secret code's length:");
+        Game game = new Game(new Scanner(System.in).nextInt());
         game.run();
     }
 }

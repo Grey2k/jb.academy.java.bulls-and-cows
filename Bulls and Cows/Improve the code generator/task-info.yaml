@@ -241,6 +241,138 @@ files:
           }
       }
     learner_created: false
+  - name: src/bullscows/Turn.java
+    visible: true
+    text: |
+      package bullscows;
+      
+      public record Turn(String input, String secret) {
+      
+          public Integer bulls() {
+              int bulls = 0;
+              for (int i = 0; i < secret.length(); i++) {
+                  if (input.length() - 1 < i) {
+                      break;
+                  }
+      
+                  if (input.charAt(i) == secret.charAt(i)) {
+                      bulls++;
+                  }
+              }
+      
+              return bulls;
+          }
+      
+          public Integer cows() {
+              int cows = 0;
+      
+              for (int i = 0; i < secret.length(); i++) {
+                  if (input.charAt(i) != secret.charAt(i)) {
+                      if (input.contains(String.valueOf(secret.charAt(i)))) {
+                          cows++;
+                      }
+                  }
+              }
+      
+              return cows;
+          }
+      
+          public boolean match() {
+              return bulls() == secret.length();
+          }
+      
+          public void print() {
+              System.out.print("Grade: ");
+      
+              if ((bulls() + cows()) == 0) {
+                  System.out.print("None.");
+              } else if (cows() == 0) {
+                  System.out.print(bulls() + " bull(s).");
+              } else if (bulls() == 0) {
+                  System.out.print(cows() + " cow(s).");
+              } else {
+                  System.out.print(bulls() + " bull(s) and " + cows() + " cow(s).");
+              }
+      
+              System.out.println();
+          }
+      }
+    learner_created: true
+  - name: src/bullscows/Game.java
+    visible: true
+    text: |
+      package bullscows;
+      
+      import java.util.Scanner;
+      
+      public class Game {
+      
+          private static final Integer MAX_LENGTH = 10;
+      
+          private Integer secret;
+      
+          public Game(Integer length) {
+              this.init(length);
+          }
+      
+          private void init(Integer length) {
+              try {
+                  this.secret = generateSecret(length);
+                  System.out.println("Okay, let's start a game!");
+              } catch (IllegalArgumentException e) {
+                  System.out.println(e.getMessage());
+              }
+          }
+      
+          private Integer generateSecret(Integer length) {
+              if (length > MAX_LENGTH) {
+                  throw new IllegalArgumentException("Error: can't generate a secret number with a length of " + MAX_LENGTH +
+                          " because there aren't enough unique digits.");
+              }
+      
+              StringBuilder secretString = new StringBuilder();
+      
+              while (secretString.length() < length) {
+                  String pseudoRandom = String.valueOf(System.nanoTime());
+      
+                  for (char c : new StringBuilder(pseudoRandom).reverse().toString().toCharArray()) {
+                      // check for leading zeros
+                      if (secretString.isEmpty() && c == '0') {
+                          continue;
+                      }
+      
+                      // exclude duplicates
+                      if (secretString.toString().contains(String.valueOf(c))) {
+                          continue;
+                      }
+      
+                      secretString.append(c);
+      
+                      if (secretString.length() == length) {
+                          break;
+                      }
+                  }
+              }
+      
+              return Integer.parseInt(secretString.toString());
+          }
+      
+          public void run() {
+              int turns = 1;
+      
+              while (true) {
+                  System.out.println("Turn " + turns + ":");
+                  Turn turn = new Turn((new Scanner(System.in)).next(), secret.toString());
+                  turn.print();
+      
+                  if (turn.match()) {
+                      System.out.println("Congratulations! You guessed the secret code.");
+                      break;
+                  }
+              }
+          }
+      }
+    learner_created: true
 feedback_link: https://hyperskill.org/learn/step/5433#comment
 status: Unchecked
 record: -1

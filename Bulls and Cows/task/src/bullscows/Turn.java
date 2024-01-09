@@ -1,11 +1,15 @@
 package bullscows;
 
-public record Turn(Integer input, Integer secret) {
+public record Turn(String input, String secret) {
 
     public Integer bulls() {
         int bulls = 0;
-        for (int i = 0; i < secret.toString().length(); i++) {
-            if (input.toString().charAt(i) == secret.toString().charAt(i)) {
+        for (int i = 0; i < secret.length(); i++) {
+            if (input.length() - 1 < i) {
+                break;
+            }
+
+            if (input.charAt(i) == secret.charAt(i)) {
                 bulls++;
             }
         }
@@ -16,9 +20,9 @@ public record Turn(Integer input, Integer secret) {
     public Integer cows() {
         int cows = 0;
 
-        for (int i = 0; i < secret.toString().length(); i++) {
-            if (input.toString().charAt(i) != secret.toString().charAt(i)) {
-                if (input.toString().contains(String.valueOf(secret.toString().charAt(i)))) {
+        for (int i = 0; i < secret.length(); i++) {
+            if (input.charAt(i) != secret.charAt(i)) {
+                if (input.contains(String.valueOf(secret.charAt(i)))) {
                     cows++;
                 }
             }
@@ -28,7 +32,7 @@ public record Turn(Integer input, Integer secret) {
     }
 
     public boolean match() {
-        return bulls() == secret.toString().length();
+        return bulls() == secret.length();
     }
 
     public void print() {
@@ -44,7 +48,6 @@ public record Turn(Integer input, Integer secret) {
             System.out.print(bulls() + " bull(s) and " + cows() + " cow(s).");
         }
 
-        System.out.print(" The secret code is " + secret.toString() + ".");
         System.out.println();
     }
 }
