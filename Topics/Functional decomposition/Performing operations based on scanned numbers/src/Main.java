@@ -8,10 +8,12 @@ public class Main {
         double secondNum = scanner.nextDouble();
         double result;
 
-        // TODO: Put your code here
-
-        System.out.println(result);
+        if (firstNum == 1 || firstNum == 2) {
+            result = Math.pow(secondNum, firstNum + 1);
+            System.out.println(result);
+        } else if (firstNum == 3) {
+            result = 1 / secondNum;
+            System.out.println(result);
+        }
     }
-
-    // TODO: Define any additional methods here
 }

@@ -22,14 +22,9 @@ files:
       }
     learner_created: false
 feedback_link: https://hyperskill.org/learn/step/41169#comment
-status: Failed
+status: Solved
 feedback:
-  message: |
-    Compilation error
-    Main.java:13: error: variable result might not have been initialized
-            System.out.println(result);
-                               ^
-    1 error
-  time: "Tue, 09 Jan 2024 13:54:53 UTC"
+  message: <html>Correct solution</html>
+  time: "Wed, 10 Jan 2024 14:55:11 UTC"
 record: -1
 submission_language: java17
