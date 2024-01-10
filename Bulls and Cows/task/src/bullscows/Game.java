@@ -1,5 +1,6 @@
 package bullscows;
 
+import java.util.Random;
 import java.util.Scanner;
 
 public class Game {
@@ -30,24 +31,22 @@ public class Game {
         StringBuilder secretString = new StringBuilder();
 
         while (secretString.length() < length) {
-            String pseudoRandom = String.valueOf(System.nanoTime());
+            char c = String.valueOf(new Random().nextInt(0, 10)).charAt(0);
 
-            for (char c : new StringBuilder(pseudoRandom).reverse().toString().toCharArray()) {
-                // check for leading zeros
-                if (secretString.isEmpty() && c == '0') {
-                    continue;
-                }
+            // exclude leading zeroes
+            if (secretString.isEmpty() && c == '0') {
+                continue;
+            }
 
-                // exclude duplicates
-                if (secretString.toString().contains(String.valueOf(c))) {
-                    continue;
-                }
+            // exclude duplicates
+            if (secretString.toString().contains(String.valueOf(c))) {
+                continue;
+            }
 
-                secretString.append(c);
+            secretString.append(c);
 
-                if (secretString.length() == length) {
-                    break;
-                }
+            if (secretString.length() == length) {
+                break;
             }
         }
 

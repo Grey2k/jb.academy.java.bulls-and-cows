@@ -20,15 +20,6 @@
 Grade: None.
 Turn 1:
 > 5
-Grade: None.
-Turn 1:
-> 6
-Grade: None.
-Turn 1:
-> 7
-Grade: None.
-Turn 1:
-> 8
 Grade: 1 bull(s).
 .Congratulations! You guessed the secret code.
 [1;31m
@@ -41,75 +32,36 @@
 Grade: 1 bull(s).
 Turn 1:
 > 1111
-Grade: None.
-Turn 1:
-> 2222
 Grade: 1 bull(s).
 Turn 1:
-> 3333
+> 2222
 Grade: None.
+Turn 1:
+> 3333
+Grade: 1 bull(s).
 Turn 1:
 > 4444
 Grade: 1 bull(s).
 Turn 1:
-> 5555
-Grade: None.
-Turn 1:
-> 6666
-Grade: None.
-Turn 1:
-> 7777
-Grade: 1 bull(s).
-Turn 1:
-> 0247
-Grade: 4 cow(s).
-Turn 1:
-> 2047
-Grade: 4 cow(s).
-Turn 1:
-> 4027
+> 0134
 Grade: 1 bull(s) and 3 cow(s).
 Turn 1:
-> 0427
+> 1034
 Grade: 4 cow(s).
 Turn 1:
-> 2407
+> 3014
+Grade: 4 cow(s).
+Turn 1:
+> 0314
+Grade: 4 cow(s).
+Turn 1:
+> 1304
 Grade: 1 bull(s) and 3 cow(s).
 Turn 1:
-> 4207
+> 3104
 Grade: 2 bull(s) and 2 cow(s).
 Turn 1:
-> 7204
-Grade: 1 bull(s) and 3 cow(s).
-Turn 1:
-> 2704
-Grade: 2 bull(s) and 2 cow(s).
-Turn 1:
-> 0724
-Grade: 1 bull(s) and 3 cow(s).
-Turn 1:
-> 7024
-Grade: 4 cow(s).
-Turn 1:
-> 2074
-Grade: 4 cow(s).
-Turn 1:
-> 0274
-Grade: 4 cow(s).
-Turn 1:
-> 0472
-Grade: 1 bull(s) and 3 cow(s).
-Turn 1:
-> 4072
-Grade: 2 bull(s) and 2 cow(s).
-Turn 1:
-> 7042
-Grade: 1 bull(s) and 3 cow(s).
-Turn 1:
-> 0742
-Grade: 2 bull(s) and 2 cow(s).
-Turn 1:
-> 4702
+> 4103
 Grade: 4 bull(s).
 .Congratulations! You guessed the secret code.
 [1;31m
@@ -119,7 +71,7 @@
 Okay, let's start a game!
 Turn 1:
 	> 000000
-Grade: None.
+Grade: 1 bull(s).
 Turn 1:
 	> 111111
 Grade: 1 bull(s).
@@ -131,642 +83,1935 @@
 Grade: 1 bull(s).
 Turn 1:
 	> 444444
-Grade: 1 bull(s).
+Grade: None.
 Turn 1:
 	> 555555
 Grade: None.
 Turn 1:
 	> 666666
-Grade: None.
+Grade: 1 bull(s).
 Turn 1:
 	> 777777
 Grade: 1 bull(s).
 Turn 1:
-	> 888888
-Grade: 1 bull(s).
-Turn 1:
-	> 123478
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 213478
-Grade: 6 cow(s).
-Turn 1:
-	> 312478
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 132478
-Grade: 6 cow(s).
-Turn 1:
-	> 231478
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 321478
-Grade: 3 bull(s) and 3 cow(s).
-Turn 1:
-	> 421378
+	> 012367
 Grade: 2 bull(s) and 4 cow(s).
 Turn 1:
-	> 241378
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 142378
-Grade: 6 cow(s).
-Turn 1:
-	> 412378
-Grade: 6 cow(s).
-Turn 1:
-	> 214378
-Grade: 6 cow(s).
-Turn 1:
-	> 124378
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 134278
-Grade: 6 cow(s).
-Turn 1:
-	> 314278
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 413278
-Grade: 6 cow(s).
-Turn 1:
-	> 143278
-Grade: 6 cow(s).
-Turn 1:
-	> 341278
+	> 102367
 Grade: 2 bull(s) and 4 cow(s).
 Turn 1:
-	> 431278
+	> 201367
 Grade: 1 bull(s) and 5 cow(s).
 Turn 1:
-	> 432178
-Grade: 6 cow(s).
-Turn 1:
-	> 342178
+	> 021367
 Grade: 1 bull(s) and 5 cow(s).
 Turn 1:
-	> 243178
-Grade: 6 cow(s).
-Turn 1:
-	> 423178
+	> 120367
 Grade: 1 bull(s) and 5 cow(s).
 Turn 1:
-	> 324178
+	> 210367
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 310267
 Grade: 2 bull(s) and 4 cow(s).
 Turn 1:
-	> 234178
-Grade: 6 cow(s).
-Turn 1:
-	> 734128
-Grade: 6 cow(s).
-Turn 1:
-	> 374128
+	> 130267
 Grade: 1 bull(s) and 5 cow(s).
 Turn 1:
-	> 473128
-Grade: 6 cow(s).
-Turn 1:
-	> 743128
-Grade: 6 cow(s).
-Turn 1:
-	> 347128
+	> 031267
 Grade: 1 bull(s) and 5 cow(s).
 Turn 1:
-	> 437128
-Grade: 6 cow(s).
-Turn 1:
-	> 137428
-Grade: 6 cow(s).
-Turn 1:
-	> 317428
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 713428
-Grade: 6 cow(s).
-Turn 1:
-	> 173428
-Grade: 6 cow(s).
-Turn 1:
-	> 371428
+	> 301267
 Grade: 2 bull(s) and 4 cow(s).
 Turn 1:
-	> 731428
+	> 103267
 Grade: 1 bull(s) and 5 cow(s).
 Turn 1:
-	> 741328
+	> 013267
 Grade: 1 bull(s) and 5 cow(s).
 Turn 1:
-	> 471328
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 174328
-Grade: 6 cow(s).
-Turn 1:
-	> 714328
-Grade: 6 cow(s).
-Turn 1:
-	> 417328
-Grade: 6 cow(s).
-Turn 1:
-	> 147328
-Grade: 6 cow(s).
-Turn 1:
-	> 143728
-Grade: 6 cow(s).
-Turn 1:
-	> 413728
-Grade: 6 cow(s).
-Turn 1:
-	> 314728
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 134728
-Grade: 6 cow(s).
-Turn 1:
-	> 431728
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 341728
+	> 023167
 Grade: 2 bull(s) and 4 cow(s).
 Turn 1:
-	> 241738
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 421738
+	> 203167
 Grade: 2 bull(s) and 4 cow(s).
 Turn 1:
-	> 124738
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 214738
-Grade: 6 cow(s).
-Turn 1:
-	> 412738
-Grade: 6 cow(s).
-Turn 1:
-	> 142738
-Grade: 6 cow(s).
-Turn 1:
-	> 742138
-Grade: 6 cow(s).
-Turn 1:
-	> 472138
-Grade: 6 cow(s).
-Turn 1:
-	> 274138
-Grade: 6 cow(s).
-Turn 1:
-	> 724138
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 427138
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 247138
-Grade: 6 cow(s).
-Turn 1:
-	> 217438
-Grade: 6 cow(s).
-Turn 1:
-	> 127438
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 721438
-Grade: 2 bull(s) and 4 cow(s).
-Turn 1:
-	> 271438
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 172438
-Grade: 6 cow(s).
-Turn 1:
-	> 712438
-Grade: 6 cow(s).
-Turn 1:
-	> 714238
-Grade: 6 cow(s).
-Turn 1:
-	> 174238
-Grade: 6 cow(s).
-Turn 1:
-	> 471238
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 741238
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 147238
-Grade: 6 cow(s).
-Turn 1:
-	> 417238
-Grade: 6 cow(s).
-Turn 1:
-	> 317248
-Grade: 2 bull(s) and 4 cow(s).
-Turn 1:
-	> 137248
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 731248
-Grade: 2 bull(s) and 4 cow(s).
-Turn 1:
-	> 371248
-Grade: 3 bull(s) and 3 cow(s).
-Turn 1:
-	> 173248
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 713248
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 213748
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 123748
-Grade: 2 bull(s) and 4 cow(s).
-Turn 1:
-	> 321748
+	> 302167
 Grade: 4 bull(s) and 2 cow(s).
 Turn 1:
-	> 231748
-Grade: 2 bull(s) and 4 cow(s).
-Turn 1:
-	> 132748
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 312748
-Grade: 2 bull(s) and 4 cow(s).
-Turn 1:
-	> 372148
-Grade: 2 bull(s) and 4 cow(s).
-Turn 1:
-	> 732148
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 237148
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 327148
+	> 032167
 Grade: 3 bull(s) and 3 cow(s).
 Turn 1:
-	> 723148
+	> 230167
 Grade: 2 bull(s) and 4 cow(s).
 Turn 1:
-	> 273148
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 271348
-Grade: 2 bull(s) and 4 cow(s).
-Turn 1:
-	> 721348
+	> 320167
 Grade: 3 bull(s) and 3 cow(s).
 Turn 1:
-	> 127348
+	> 321067
 Grade: 2 bull(s) and 4 cow(s).
 Turn 1:
-	> 217348
+	> 231067
 Grade: 1 bull(s) and 5 cow(s).
 Turn 1:
-	> 712348
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 172348
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 472318
-Grade: 6 cow(s).
-Turn 1:
-	> 742318
-Grade: 6 cow(s).
-Turn 1:
-	> 247318
-Grade: 6 cow(s).
-Turn 1:
-	> 427318
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 724318
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 274318
-Grade: 6 cow(s).
-Turn 1:
-	> 374218
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 734218
-Grade: 6 cow(s).
-Turn 1:
-	> 437218
-Grade: 6 cow(s).
-Turn 1:
-	> 347218
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 743218
-Grade: 6 cow(s).
-Turn 1:
-	> 473218
-Grade: 6 cow(s).
-Turn 1:
-	> 423718
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 243718
-Grade: 6 cow(s).
-Turn 1:
-	> 342718
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 432718
-Grade: 6 cow(s).
-Turn 1:
-	> 234718
-Grade: 6 cow(s).
-Turn 1:
-	> 324718
+	> 132067
 Grade: 2 bull(s) and 4 cow(s).
 Turn 1:
-	> 327418
-Grade: 2 bull(s) and 4 cow(s).
-Turn 1:
-	> 237418
-Grade: 6 cow(s).
-Turn 1:
-	> 732418
-Grade: 6 cow(s).
-Turn 1:
-	> 372418
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 273418
-Grade: 6 cow(s).
-Turn 1:
-	> 723418
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 823417
-Grade: 2 bull(s) and 4 cow(s).
-Turn 1:
-	> 283417
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 382417
-Grade: 2 bull(s) and 4 cow(s).
-Turn 1:
-	> 832417
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 238417
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 328417
+	> 312067
 Grade: 3 bull(s) and 3 cow(s).
 Turn 1:
-	> 428317
+	> 213067
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 123067
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 623017
+Grade: 6 cow(s).
+Turn 1:
+	> 263017
+Grade: 6 cow(s).
+Turn 1:
+	> 362017
 Grade: 2 bull(s) and 4 cow(s).
 Turn 1:
-	> 248317
+	> 632017
 Grade: 1 bull(s) and 5 cow(s).
 Turn 1:
-	> 842317
+	> 236017
+Grade: 6 cow(s).
+Turn 1:
+	> 326017
 Grade: 1 bull(s) and 5 cow(s).
 Turn 1:
-	> 482317
+	> 026317
+Grade: 6 cow(s).
+Turn 1:
+	> 206317
+Grade: 6 cow(s).
+Turn 1:
+	> 602317
 Grade: 1 bull(s) and 5 cow(s).
 Turn 1:
-	> 284317
+	> 062317
 Grade: 1 bull(s) and 5 cow(s).
 Turn 1:
-	> 824317
+	> 260317
+Grade: 6 cow(s).
+Turn 1:
+	> 620317
+Grade: 6 cow(s).
+Turn 1:
+	> 630217
+Grade: 6 cow(s).
+Turn 1:
+	> 360217
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 063217
+Grade: 6 cow(s).
+Turn 1:
+	> 603217
+Grade: 6 cow(s).
+Turn 1:
+	> 306217
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 036217
+Grade: 6 cow(s).
+Turn 1:
+	> 032617
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 302617
 Grade: 2 bull(s) and 4 cow(s).
 Turn 1:
-	> 834217
+	> 203617
+Grade: 6 cow(s).
+Turn 1:
+	> 023617
+Grade: 6 cow(s).
+Turn 1:
+	> 320617
 Grade: 1 bull(s) and 5 cow(s).
 Turn 1:
-	> 384217
+	> 230617
+Grade: 6 cow(s).
+Turn 1:
+	> 130627
+Grade: 6 cow(s).
+Turn 1:
+	> 310627
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 013627
+Grade: 6 cow(s).
+Turn 1:
+	> 103627
+Grade: 6 cow(s).
+Turn 1:
+	> 301627
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 031627
+Grade: 6 cow(s).
+Turn 1:
+	> 631027
+Grade: 6 cow(s).
+Turn 1:
+	> 361027
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 163027
+Grade: 6 cow(s).
+Turn 1:
+	> 613027
+Grade: 6 cow(s).
+Turn 1:
+	> 316027
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 136027
+Grade: 6 cow(s).
+Turn 1:
+	> 106327
+Grade: 6 cow(s).
+Turn 1:
+	> 016327
+Grade: 6 cow(s).
+Turn 1:
+	> 610327
+Grade: 6 cow(s).
+Turn 1:
+	> 160327
+Grade: 6 cow(s).
+Turn 1:
+	> 061327
+Grade: 6 cow(s).
+Turn 1:
+	> 601327
+Grade: 6 cow(s).
+Turn 1:
+	> 603127
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 063127
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 360127
 Grade: 2 bull(s) and 4 cow(s).
 Turn 1:
-	> 483217
+	> 630127
 Grade: 1 bull(s) and 5 cow(s).
 Turn 1:
-	> 843217
+	> 036127
 Grade: 1 bull(s) and 5 cow(s).
 Turn 1:
-	> 348217
+	> 306127
 Grade: 2 bull(s) and 4 cow(s).
 Turn 1:
-	> 438217
+	> 206137
 Grade: 1 bull(s) and 5 cow(s).
 Turn 1:
-	> 432817
+	> 026137
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 620137
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 260137
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 062137
 Grade: 2 bull(s) and 4 cow(s).
 Turn 1:
-	> 342817
+	> 602137
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 102637
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 012637
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 210637
+Grade: 6 cow(s).
+Turn 1:
+	> 120637
+Grade: 6 cow(s).
+Turn 1:
+	> 021637
+Grade: 6 cow(s).
+Turn 1:
+	> 201637
+Grade: 6 cow(s).
+Turn 1:
+	> 261037
+Grade: 6 cow(s).
+Turn 1:
+	> 621037
+Grade: 6 cow(s).
+Turn 1:
+	> 126037
+Grade: 6 cow(s).
+Turn 1:
+	> 216037
+Grade: 6 cow(s).
+Turn 1:
+	> 612037
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 162037
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 160237
+Grade: 6 cow(s).
+Turn 1:
+	> 610237
+Grade: 6 cow(s).
+Turn 1:
+	> 016237
+Grade: 6 cow(s).
+Turn 1:
+	> 106237
+Grade: 6 cow(s).
+Turn 1:
+	> 601237
+Grade: 6 cow(s).
+Turn 1:
+	> 061237
+Grade: 6 cow(s).
+Turn 1:
+	> 361207
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 631207
+Grade: 6 cow(s).
+Turn 1:
+	> 136207
+Grade: 6 cow(s).
+Turn 1:
+	> 316207
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 613207
+Grade: 6 cow(s).
+Turn 1:
+	> 163207
+Grade: 6 cow(s).
+Turn 1:
+	> 263107
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 623107
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 326107
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 236107
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 632107
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 362107
 Grade: 3 bull(s) and 3 cow(s).
 Turn 1:
-	> 243817
+	> 312607
 Grade: 2 bull(s) and 4 cow(s).
 Turn 1:
-	> 423817
-Grade: 3 bull(s) and 3 cow(s).
+	> 132607
+Grade: 1 bull(s) and 5 cow(s).
 Turn 1:
-	> 324817
+	> 231607
+Grade: 6 cow(s).
+Turn 1:
+	> 321607
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 123607
+Grade: 6 cow(s).
+Turn 1:
+	> 213607
+Grade: 6 cow(s).
+Turn 1:
+	> 216307
+Grade: 6 cow(s).
+Turn 1:
+	> 126307
+Grade: 6 cow(s).
+Turn 1:
+	> 621307
+Grade: 6 cow(s).
+Turn 1:
+	> 261307
+Grade: 6 cow(s).
+Turn 1:
+	> 162307
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 612307
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 712306
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 172306
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 271306
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 721306
+Grade: 6 cow(s).
+Turn 1:
+	> 127306
+Grade: 6 cow(s).
+Turn 1:
+	> 217306
+Grade: 6 cow(s).
+Turn 1:
+	> 317206
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 137206
+Grade: 6 cow(s).
+Turn 1:
+	> 731206
+Grade: 6 cow(s).
+Turn 1:
+	> 371206
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 173206
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 713206
+Grade: 6 cow(s).
+Turn 1:
+	> 723106
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 273106
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 372106
 Grade: 4 bull(s) and 2 cow(s).
 Turn 1:
-	> 234817
+	> 732106
 Grade: 2 bull(s) and 4 cow(s).
 Turn 1:
-	> 134827
+	> 237106
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 327106
 Grade: 2 bull(s) and 4 cow(s).
 Turn 1:
-	> 314827
+	> 321706
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 231706
+Grade: 6 cow(s).
+Turn 1:
+	> 132706
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 312706
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 213706
+Grade: 6 cow(s).
+Turn 1:
+	> 123706
+Grade: 6 cow(s).
+Turn 1:
+	> 023716
+Grade: 6 cow(s).
+Turn 1:
+	> 203716
+Grade: 6 cow(s).
+Turn 1:
+	> 302716
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 032716
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 230716
+Grade: 6 cow(s).
+Turn 1:
+	> 320716
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 720316
+Grade: 6 cow(s).
+Turn 1:
+	> 270316
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 072316
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 702316
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 207316
+Grade: 6 cow(s).
+Turn 1:
+	> 027316
+Grade: 6 cow(s).
+Turn 1:
+	> 037216
+Grade: 6 cow(s).
+Turn 1:
+	> 307216
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 703216
+Grade: 6 cow(s).
+Turn 1:
+	> 073216
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 370216
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 730216
+Grade: 6 cow(s).
+Turn 1:
+	> 732016
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 372016
 Grade: 3 bull(s) and 3 cow(s).
 Turn 1:
-	> 413827
+	> 273016
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 723016
+Grade: 6 cow(s).
+Turn 1:
+	> 327016
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 237016
+Grade: 6 cow(s).
+Turn 1:
+	> 137026
+Grade: 6 cow(s).
+Turn 1:
+	> 317026
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 713026
+Grade: 6 cow(s).
+Turn 1:
+	> 173026
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 371026
 Grade: 2 bull(s) and 4 cow(s).
 Turn 1:
-	> 143827
+	> 731026
+Grade: 6 cow(s).
+Turn 1:
+	> 031726
+Grade: 6 cow(s).
+Turn 1:
+	> 301726
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 103726
+Grade: 6 cow(s).
+Turn 1:
+	> 013726
+Grade: 6 cow(s).
+Turn 1:
+	> 310726
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 130726
+Grade: 6 cow(s).
+Turn 1:
+	> 170326
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 710326
+Grade: 6 cow(s).
+Turn 1:
+	> 017326
+Grade: 6 cow(s).
+Turn 1:
+	> 107326
+Grade: 6 cow(s).
+Turn 1:
+	> 701326
+Grade: 6 cow(s).
+Turn 1:
+	> 071326
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 073126
 Grade: 2 bull(s) and 4 cow(s).
 Turn 1:
-	> 341827
+	> 703126
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 307126
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 037126
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 730126
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 370126
+Grade: 3 bull(s) and 3 cow(s).
+Turn 1:
+	> 270136
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 720136
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 027136
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 207136
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 702136
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 072136
+Grade: 3 bull(s) and 3 cow(s).
+Turn 1:
+	> 172036
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 712036
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 217036
+Grade: 6 cow(s).
+Turn 1:
+	> 127036
+Grade: 6 cow(s).
+Turn 1:
+	> 721036
+Grade: 6 cow(s).
+Turn 1:
+	> 271036
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 201736
+Grade: 6 cow(s).
+Turn 1:
+	> 021736
+Grade: 6 cow(s).
+Turn 1:
+	> 120736
+Grade: 6 cow(s).
+Turn 1:
+	> 210736
+Grade: 6 cow(s).
+Turn 1:
+	> 012736
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 102736
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 107236
+Grade: 6 cow(s).
+Turn 1:
+	> 017236
+Grade: 6 cow(s).
+Turn 1:
+	> 710236
+Grade: 6 cow(s).
+Turn 1:
+	> 170236
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 071236
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 701236
+Grade: 6 cow(s).
+Turn 1:
+	> 301276
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 031276
+Grade: 6 cow(s).
+Turn 1:
+	> 130276
+Grade: 6 cow(s).
+Turn 1:
+	> 310276
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 013276
+Grade: 6 cow(s).
+Turn 1:
+	> 103276
+Grade: 6 cow(s).
+Turn 1:
+	> 203176
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 023176
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 320176
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 230176
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 032176
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 302176
+Grade: 3 bull(s) and 3 cow(s).
+Turn 1:
+	> 312076
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 132076
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 231076
+Grade: 6 cow(s).
+Turn 1:
+	> 321076
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 123076
+Grade: 6 cow(s).
+Turn 1:
+	> 213076
+Grade: 6 cow(s).
+Turn 1:
+	> 210376
+Grade: 6 cow(s).
+Turn 1:
+	> 120376
+Grade: 6 cow(s).
+Turn 1:
+	> 021376
+Grade: 6 cow(s).
+Turn 1:
+	> 201376
+Grade: 6 cow(s).
+Turn 1:
+	> 102376
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 012376
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 062371
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 602371
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 206371
+Grade: 6 cow(s).
+Turn 1:
+	> 026371
+Grade: 6 cow(s).
+Turn 1:
+	> 620371
+Grade: 6 cow(s).
+Turn 1:
+	> 260371
+Grade: 6 cow(s).
+Turn 1:
+	> 360271
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 630271
+Grade: 6 cow(s).
+Turn 1:
+	> 036271
+Grade: 6 cow(s).
+Turn 1:
+	> 306271
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 603271
+Grade: 6 cow(s).
+Turn 1:
+	> 063271
+Grade: 6 cow(s).
+Turn 1:
+	> 023671
+Grade: 6 cow(s).
+Turn 1:
+	> 203671
+Grade: 6 cow(s).
+Turn 1:
+	> 302671
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 032671
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 230671
+Grade: 6 cow(s).
+Turn 1:
+	> 320671
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 326071
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 236071
+Grade: 6 cow(s).
+Turn 1:
+	> 632071
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 362071
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 263071
+Grade: 6 cow(s).
+Turn 1:
+	> 623071
+Grade: 6 cow(s).
+Turn 1:
+	> 723061
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 273061
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 372061
 Grade: 4 bull(s) and 2 cow(s).
 Turn 1:
-	> 431827
+	> 732061
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 237061
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 327061
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 027361
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 207361
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 702361
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 072361
 Grade: 3 bull(s) and 3 cow(s).
 Turn 1:
-	> 831427
+	> 270361
 Grade: 2 bull(s) and 4 cow(s).
 Turn 1:
-	> 381427
+	> 720361
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 730261
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 370261
 Grade: 3 bull(s) and 3 cow(s).
 Turn 1:
-	> 183427
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 813427
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 318427
+	> 073261
 Grade: 2 bull(s) and 4 cow(s).
 Turn 1:
-	> 138427
+	> 703261
 Grade: 1 bull(s) and 5 cow(s).
 Turn 1:
-	> 148327
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 418327
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 814327
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 184327
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 481327
+	> 307261
 Grade: 2 bull(s) and 4 cow(s).
 Turn 1:
-	> 841327
-Grade: 2 bull(s) and 4 cow(s).
-Turn 1:
-	> 843127
+	> 037261
 Grade: 1 bull(s) and 5 cow(s).
 Turn 1:
-	> 483127
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 384127
+	> 032761
 Grade: 2 bull(s) and 4 cow(s).
 Turn 1:
-	> 834127
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 438127
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 348127
-Grade: 2 bull(s) and 4 cow(s).
-Turn 1:
-	> 248137
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 428137
-Grade: 2 bull(s) and 4 cow(s).
-Turn 1:
-	> 824137
-Grade: 2 bull(s) and 4 cow(s).
-Turn 1:
-	> 284137
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 482137
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 842137
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 142837
-Grade: 2 bull(s) and 4 cow(s).
-Turn 1:
-	> 412837
-Grade: 2 bull(s) and 4 cow(s).
-Turn 1:
-	> 214837
-Grade: 2 bull(s) and 4 cow(s).
-Turn 1:
-	> 124837
+	> 302761
 Grade: 3 bull(s) and 3 cow(s).
 Turn 1:
-	> 421837
+	> 203761
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 023761
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 320761
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 230761
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 630721
+Grade: 6 cow(s).
+Turn 1:
+	> 360721
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 063721
+Grade: 6 cow(s).
+Turn 1:
+	> 603721
+Grade: 6 cow(s).
+Turn 1:
+	> 306721
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 036721
+Grade: 6 cow(s).
+Turn 1:
+	> 736021
+Grade: 6 cow(s).
+Turn 1:
+	> 376021
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 673021
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 763021
+Grade: 6 cow(s).
+Turn 1:
+	> 367021
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 637021
+Grade: 6 cow(s).
+Turn 1:
+	> 607321
+Grade: 6 cow(s).
+Turn 1:
+	> 067321
+Grade: 6 cow(s).
+Turn 1:
+	> 760321
+Grade: 6 cow(s).
+Turn 1:
+	> 670321
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 076321
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 706321
+Grade: 6 cow(s).
+Turn 1:
+	> 703621
+Grade: 6 cow(s).
+Turn 1:
+	> 073621
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 370621
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 730621
+Grade: 6 cow(s).
+Turn 1:
+	> 037621
+Grade: 6 cow(s).
+Turn 1:
+	> 307621
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 207631
+Grade: 6 cow(s).
+Turn 1:
+	> 027631
+Grade: 6 cow(s).
+Turn 1:
+	> 720631
+Grade: 6 cow(s).
+Turn 1:
+	> 270631
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 072631
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 702631
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 602731
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 062731
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 260731
+Grade: 6 cow(s).
+Turn 1:
+	> 620731
+Grade: 6 cow(s).
+Turn 1:
+	> 026731
+Grade: 6 cow(s).
+Turn 1:
+	> 206731
+Grade: 6 cow(s).
+Turn 1:
+	> 276031
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 726031
+Grade: 6 cow(s).
+Turn 1:
+	> 627031
+Grade: 6 cow(s).
+Turn 1:
+	> 267031
+Grade: 6 cow(s).
+Turn 1:
+	> 762031
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 672031
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 670231
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 760231
+Grade: 6 cow(s).
+Turn 1:
+	> 067231
+Grade: 6 cow(s).
+Turn 1:
+	> 607231
+Grade: 6 cow(s).
+Turn 1:
+	> 706231
+Grade: 6 cow(s).
+Turn 1:
+	> 076231
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 376201
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 736201
+Grade: 6 cow(s).
+Turn 1:
+	> 637201
+Grade: 6 cow(s).
+Turn 1:
+	> 367201
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 763201
+Grade: 6 cow(s).
+Turn 1:
+	> 673201
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 273601
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 723601
+Grade: 6 cow(s).
+Turn 1:
+	> 327601
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 237601
+Grade: 6 cow(s).
+Turn 1:
+	> 732601
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 372601
+Grade: 3 bull(s) and 3 cow(s).
+Turn 1:
+	> 362701
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 632701
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 236701
+Grade: 6 cow(s).
+Turn 1:
+	> 326701
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 623701
+Grade: 6 cow(s).
+Turn 1:
+	> 263701
+Grade: 6 cow(s).
+Turn 1:
+	> 267301
+Grade: 6 cow(s).
+Turn 1:
+	> 627301
+Grade: 6 cow(s).
+Turn 1:
+	> 726301
+Grade: 6 cow(s).
+Turn 1:
+	> 276301
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 672301
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 762301
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 761302
+Grade: 6 cow(s).
+Turn 1:
+	> 671302
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 176302
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 716302
+Grade: 6 cow(s).
+Turn 1:
+	> 617302
+Grade: 6 cow(s).
+Turn 1:
+	> 167302
+Grade: 6 cow(s).
+Turn 1:
+	> 367102
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 637102
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 736102
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 376102
+Grade: 3 bull(s) and 3 cow(s).
+Turn 1:
+	> 673102
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 763102
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 713602
+Grade: 6 cow(s).
+Turn 1:
+	> 173602
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 371602
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 731602
+Grade: 6 cow(s).
+Turn 1:
+	> 137602
+Grade: 6 cow(s).
+Turn 1:
+	> 317602
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 316702
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 136702
+Grade: 6 cow(s).
+Turn 1:
+	> 631702
+Grade: 6 cow(s).
+Turn 1:
+	> 361702
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 163702
+Grade: 6 cow(s).
+Turn 1:
+	> 613702
+Grade: 6 cow(s).
+Turn 1:
+	> 013762
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 103762
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 301762
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 031762
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 130762
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 310762
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 710362
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 170362
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 071362
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 701362
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 107362
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 017362
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 037162
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 307162
+Grade: 3 bull(s) and 3 cow(s).
+Turn 1:
+	> 703162
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 073162
+Grade: 3 bull(s) and 3 cow(s).
+Turn 1:
+	> 370162
 Grade: 4 bull(s) and 2 cow(s).
 Turn 1:
-	> 241837
+	> 730162
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 731062
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 371062
 Grade: 3 bull(s) and 3 cow(s).
 Turn 1:
-	> 281437
+	> 173062
 Grade: 2 bull(s) and 4 cow(s).
 Turn 1:
-	> 821437
+	> 713062
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 317062
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 137062
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 637012
+Grade: 6 cow(s).
+Turn 1:
+	> 367012
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 763012
+Grade: 6 cow(s).
+Turn 1:
+	> 673012
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 376012
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 736012
+Grade: 6 cow(s).
+Turn 1:
+	> 036712
+Grade: 6 cow(s).
+Turn 1:
+	> 306712
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 603712
+Grade: 6 cow(s).
+Turn 1:
+	> 063712
+Grade: 6 cow(s).
+Turn 1:
+	> 360712
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 630712
+Grade: 6 cow(s).
+Turn 1:
+	> 670312
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 760312
+Grade: 6 cow(s).
+Turn 1:
+	> 067312
+Grade: 6 cow(s).
+Turn 1:
+	> 607312
+Grade: 6 cow(s).
+Turn 1:
+	> 706312
+Grade: 6 cow(s).
+Turn 1:
+	> 076312
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 073612
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 703612
+Grade: 6 cow(s).
+Turn 1:
+	> 307612
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 037612
+Grade: 6 cow(s).
+Turn 1:
+	> 730612
+Grade: 6 cow(s).
+Turn 1:
+	> 370612
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 170632
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 710632
+Grade: 6 cow(s).
+Turn 1:
+	> 017632
+Grade: 6 cow(s).
+Turn 1:
+	> 107632
+Grade: 6 cow(s).
+Turn 1:
+	> 701632
+Grade: 6 cow(s).
+Turn 1:
+	> 071632
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 671032
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 761032
+Grade: 6 cow(s).
+Turn 1:
+	> 167032
+Grade: 6 cow(s).
+Turn 1:
+	> 617032
+Grade: 6 cow(s).
+Turn 1:
+	> 716032
+Grade: 6 cow(s).
+Turn 1:
+	> 176032
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 106732
+Grade: 6 cow(s).
+Turn 1:
+	> 016732
+Grade: 6 cow(s).
+Turn 1:
+	> 610732
+Grade: 6 cow(s).
+Turn 1:
+	> 160732
+Grade: 6 cow(s).
+Turn 1:
+	> 061732
+Grade: 6 cow(s).
+Turn 1:
+	> 601732
+Grade: 6 cow(s).
+Turn 1:
+	> 607132
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 067132
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 760132
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 670132
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 076132
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 706132
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 306172
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 036172
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 630172
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 360172
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 063172
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 603172
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 103672
+Grade: 6 cow(s).
+Turn 1:
+	> 013672
+Grade: 6 cow(s).
+Turn 1:
+	> 310672
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 130672
+Grade: 6 cow(s).
+Turn 1:
+	> 031672
+Grade: 6 cow(s).
+Turn 1:
+	> 301672
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 361072
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 631072
+Grade: 6 cow(s).
+Turn 1:
+	> 136072
+Grade: 6 cow(s).
+Turn 1:
+	> 316072
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 613072
+Grade: 6 cow(s).
+Turn 1:
+	> 163072
+Grade: 6 cow(s).
+Turn 1:
+	> 160372
+Grade: 6 cow(s).
+Turn 1:
+	> 610372
+Grade: 6 cow(s).
+Turn 1:
+	> 016372
+Grade: 6 cow(s).
+Turn 1:
+	> 106372
+Grade: 6 cow(s).
+Turn 1:
+	> 601372
+Grade: 6 cow(s).
+Turn 1:
+	> 061372
+Grade: 6 cow(s).
+Turn 1:
+	> 061273
+Grade: 6 cow(s).
+Turn 1:
+	> 601273
+Grade: 6 cow(s).
+Turn 1:
+	> 106273
+Grade: 6 cow(s).
+Turn 1:
+	> 016273
+Grade: 6 cow(s).
+Turn 1:
+	> 610273
+Grade: 6 cow(s).
+Turn 1:
+	> 160273
+Grade: 6 cow(s).
+Turn 1:
+	> 260173
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 620173
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 026173
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 206173
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 602173
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 062173
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 012673
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 102673
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 201673
+Grade: 6 cow(s).
+Turn 1:
+	> 021673
+Grade: 6 cow(s).
+Turn 1:
+	> 120673
+Grade: 6 cow(s).
+Turn 1:
+	> 210673
+Grade: 6 cow(s).
+Turn 1:
+	> 216073
+Grade: 6 cow(s).
+Turn 1:
+	> 126073
+Grade: 6 cow(s).
+Turn 1:
+	> 621073
+Grade: 6 cow(s).
+Turn 1:
+	> 261073
+Grade: 6 cow(s).
+Turn 1:
+	> 162073
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 612073
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 712063
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 172063
 Grade: 3 bull(s) and 3 cow(s).
 Turn 1:
-	> 128437
+	> 271063
 Grade: 2 bull(s) and 4 cow(s).
 Turn 1:
-	> 218437
+	> 721063
 Grade: 1 bull(s) and 5 cow(s).
 Turn 1:
-	> 812437
+	> 127063
 Grade: 1 bull(s) and 5 cow(s).
 Turn 1:
-	> 182437
+	> 217063
 Grade: 1 bull(s) and 5 cow(s).
 Turn 1:
-	> 184237
+	> 017263
 Grade: 1 bull(s) and 5 cow(s).
 Turn 1:
-	> 814237
+	> 107263
 Grade: 1 bull(s) and 5 cow(s).
 Turn 1:
-	> 418237
+	> 701263
 Grade: 1 bull(s) and 5 cow(s).
 Turn 1:
-	> 148237
-Grade: 1 bull(s) and 5 cow(s).
-Turn 1:
-	> 841237
+	> 071263
 Grade: 2 bull(s) and 4 cow(s).
 Turn 1:
-	> 481237
+	> 170263
 Grade: 2 bull(s) and 4 cow(s).
 Turn 1:
-	> 381247
+	> 710263
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 720163
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 270163
+Grade: 3 bull(s) and 3 cow(s).
+Turn 1:
+	> 072163
 Grade: 4 bull(s) and 2 cow(s).
 Turn 1:
-	> 831247
+	> 702163
 Grade: 3 bull(s) and 3 cow(s).
 Turn 1:
-	> 138247
+	> 207163
 Grade: 2 bull(s) and 4 cow(s).
 Turn 1:
-	> 318247
+	> 027163
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 021763
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 201763
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 102763
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 012763
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 210763
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 120763
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 620713
+Grade: 6 cow(s).
+Turn 1:
+	> 260713
+Grade: 6 cow(s).
+Turn 1:
+	> 062713
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 602713
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 206713
+Grade: 6 cow(s).
+Turn 1:
+	> 026713
+Grade: 6 cow(s).
+Turn 1:
+	> 726013
+Grade: 6 cow(s).
+Turn 1:
+	> 276013
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 672013
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 762013
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 267013
+Grade: 6 cow(s).
+Turn 1:
+	> 627013
+Grade: 6 cow(s).
+Turn 1:
+	> 607213
+Grade: 6 cow(s).
+Turn 1:
+	> 067213
+Grade: 6 cow(s).
+Turn 1:
+	> 760213
+Grade: 6 cow(s).
+Turn 1:
+	> 670213
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 076213
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 706213
+Grade: 6 cow(s).
+Turn 1:
+	> 702613
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 072613
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 270613
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 720613
+Grade: 6 cow(s).
+Turn 1:
+	> 027613
+Grade: 6 cow(s).
+Turn 1:
+	> 207613
+Grade: 6 cow(s).
+Turn 1:
+	> 107623
+Grade: 6 cow(s).
+Turn 1:
+	> 017623
+Grade: 6 cow(s).
+Turn 1:
+	> 710623
+Grade: 6 cow(s).
+Turn 1:
+	> 170623
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 071623
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 701623
+Grade: 6 cow(s).
+Turn 1:
+	> 601723
+Grade: 6 cow(s).
+Turn 1:
+	> 061723
+Grade: 6 cow(s).
+Turn 1:
+	> 160723
+Grade: 6 cow(s).
+Turn 1:
+	> 610723
+Grade: 6 cow(s).
+Turn 1:
+	> 016723
+Grade: 6 cow(s).
+Turn 1:
+	> 106723
+Grade: 6 cow(s).
+Turn 1:
+	> 176023
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 716023
+Grade: 6 cow(s).
+Turn 1:
+	> 617023
+Grade: 6 cow(s).
+Turn 1:
+	> 167023
+Grade: 6 cow(s).
+Turn 1:
+	> 761023
+Grade: 6 cow(s).
+Turn 1:
+	> 671023
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 670123
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 760123
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 067123
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 607123
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 706123
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 076123
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 276103
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 726103
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 627103
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 267103
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 762103
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 672103
 Grade: 3 bull(s) and 3 cow(s).
 Turn 1:
-	> 813247
+	> 172603
 Grade: 2 bull(s) and 4 cow(s).
 Turn 1:
-	> 183247
+	> 712603
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 217603
+Grade: 6 cow(s).
+Turn 1:
+	> 127603
+Grade: 6 cow(s).
+Turn 1:
+	> 721603
+Grade: 6 cow(s).
+Turn 1:
+	> 271603
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 261703
+Grade: 6 cow(s).
+Turn 1:
+	> 621703
+Grade: 6 cow(s).
+Turn 1:
+	> 126703
+Grade: 6 cow(s).
+Turn 1:
+	> 216703
+Grade: 6 cow(s).
+Turn 1:
+	> 612703
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 162703
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 167203
+Grade: 6 cow(s).
+Turn 1:
+	> 617203
+Grade: 6 cow(s).
+Turn 1:
+	> 716203
+Grade: 6 cow(s).
+Turn 1:
+	> 176203
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 671203
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 761203
+Grade: 6 cow(s).
+Turn 1:
+	> 761230
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 671230
 Grade: 2 bull(s) and 4 cow(s).
 Turn 1:
-	> 283147
+	> 176230
 Grade: 2 bull(s) and 4 cow(s).
 Turn 1:
-	> 823147
+	> 716230
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 617230
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 167230
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 267130
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 627130
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 726130
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 276130
 Grade: 3 bull(s) and 3 cow(s).
 Turn 1:
-	> 328147
+	> 672130
 Grade: 4 bull(s) and 2 cow(s).
 Turn 1:
-	> 238147
-Grade: 2 bull(s) and 4 cow(s).
-Turn 1:
-	> 832147
-Grade: 2 bull(s) and 4 cow(s).
-Turn 1:
-	> 382147
+	> 762130
 Grade: 3 bull(s) and 3 cow(s).
 Turn 1:
-	> 312847
-Grade: 4 bull(s) and 2 cow(s).
+	> 712630
+Grade: 2 bull(s) and 4 cow(s).
 Turn 1:
-	> 132847
+	> 172630
 Grade: 3 bull(s) and 3 cow(s).
 Turn 1:
-	> 231847
+	> 271630
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 721630
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 127630
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 217630
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 216730
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 126730
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 621730
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 261730
+Grade: 1 bull(s) and 5 cow(s).
+Turn 1:
+	> 162730
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 612730
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 312760
 Grade: 4 bull(s) and 2 cow(s).
 Turn 1:
-	> 321847
+	> 132760
+Grade: 3 bull(s) and 3 cow(s).
+Turn 1:
+	> 231760
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 321760
+Grade: 3 bull(s) and 3 cow(s).
+Turn 1:
+	> 123760
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 213760
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 713260
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 173260
+Grade: 3 bull(s) and 3 cow(s).
+Turn 1:
+	> 371260
+Grade: 4 bull(s) and 2 cow(s).
+Turn 1:
+	> 731260
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 137260
+Grade: 2 bull(s) and 4 cow(s).
+Turn 1:
+	> 317260
+Grade: 3 bull(s) and 3 cow(s).
+Turn 1:
+	> 327160
+Grade: 4 bull(s) and 2 cow(s).
+Turn 1:
+	> 237160
+Grade: 3 bull(s) and 3 cow(s).
+Turn 1:
+	> 732160
+Grade: 4 bull(s) and 2 cow(s).
+Turn 1:
+	> 372160
 Grade: 6 bull(s).
 .Congratulations! You guessed the secret code.
 [1;31m
