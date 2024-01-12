@@ -38,16 +38,21 @@ public record Turn(String input, String secret) {
     public void print() {
         System.out.print("Grade: ");
 
+        StringBuilder message = new StringBuilder();
+
         if ((bulls() + cows()) == 0) {
-            System.out.print("None.");
+            message.append("None.");
         } else if (cows() == 0) {
-            System.out.print(bulls() + " bull(s).");
+            message.append(bulls()).append(" ").append(bulls() > 1 ? "bulls" : "bull");
         } else if (bulls() == 0) {
-            System.out.print(cows() + " cow(s).");
+            message.append(cows()).append(" ").append(cows() > 1 ? "cows" : "cow");
         } else {
-            System.out.print(bulls() + " bull(s) and " + cows() + " cow(s).");
+            message
+                    .append(bulls()).append(" ").append(bulls() > 1 ? "bulls" : "bull")
+                    .append(" and ")
+                    .append(cows()).append(" ").append(cows() > 1 ? "cows" : "cow");
         }
 
-        System.out.println();
+        System.out.println(message);
     }
 }
