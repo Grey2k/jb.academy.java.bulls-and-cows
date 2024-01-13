@@ -1,0 +1,11 @@
+custom_name: "Basic literals: numbers, strings and characters"
+content:
+  - Theory
+  - Match groups and literals
+  - Find an invalid literal
+  - Non string literals
+  - A literal for an address
+  - Find the correct ones
+  - Incorrect literal
+  - A valid string
+  - Save the day

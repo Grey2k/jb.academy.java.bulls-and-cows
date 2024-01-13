@@ -18,6 +18,15 @@
             <option value="$PROJECT_DIR$/Bulls and Cows/task/build/test-results" />
             <option value="$PROJECT_DIR$/Bulls and Cows/task/build/tmp" />
             <option value="$PROJECT_DIR$/Bulls and Cows/task/out" />
+            <option value="$PROJECT_DIR$/Topics/Basic literals  numbers, strings and characters/A literal for an address" />
+            <option value="$PROJECT_DIR$/Topics/Basic literals  numbers, strings and characters/A valid string" />
+            <option value="$PROJECT_DIR$/Topics/Basic literals  numbers, strings and characters/Find an invalid literal" />
+            <option value="$PROJECT_DIR$/Topics/Basic literals  numbers, strings and characters/Find the correct ones" />
+            <option value="$PROJECT_DIR$/Topics/Basic literals  numbers, strings and characters/Incorrect literal" />
+            <option value="$PROJECT_DIR$/Topics/Basic literals  numbers, strings and characters/Match groups and literals" />
+            <option value="$PROJECT_DIR$/Topics/Basic literals  numbers, strings and characters/Non string literals" />
+            <option value="$PROJECT_DIR$/Topics/Basic literals  numbers, strings and characters/Save the day" />
+            <option value="$PROJECT_DIR$/Topics/Basic literals  numbers, strings and characters/Theory" />
             <option value="$PROJECT_DIR$/Topics/Defining classes/A class with a single integer field" />
             <option value="$PROJECT_DIR$/Topics/Defining classes/Creating a book class and displaying book details" />
             <option value="$PROJECT_DIR$/Topics/Defining classes/Implementing class with private member and getter method" />
@@ -47,6 +56,9 @@
             <option value="$PROJECT_DIR$/Topics/Processing strings/Double characters" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/Move the first N characters" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/Theory" />
+            <option value="$PROJECT_DIR$/Topics/StringBuilder/Create an email" />
+            <option value="$PROJECT_DIR$/Topics/StringBuilder/Immutability" />
+            <option value="$PROJECT_DIR$/Topics/StringBuilder/Love of big letters" />
             <option value="$PROJECT_DIR$/Topics/StringBuilder/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
