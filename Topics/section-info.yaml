@@ -13,3 +13,6 @@ content:
   - Overloading
   - Getters and setters
   - Multiple constructors
+  - Comparing values. Relational operators
+  - Keyword  super
+  - Hierarchy of exceptions
